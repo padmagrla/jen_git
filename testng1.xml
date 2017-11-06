@@ -4,6 +4,7 @@
   <test name="Test">
     <classes>
       <class name="pa.cl"/>
+      <class name="pa.c2"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
